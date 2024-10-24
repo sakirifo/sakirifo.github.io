@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://sakirifo.github.io/sitemap/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/kYF/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/OKc/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/Ixm/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/uHi/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/aBD/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/CBA/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/eqG/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/yRY/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/SRv/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/WMR/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/Wid/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/tBX/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/bgJ/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/KFX/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/vgs/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/bjC/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/oRd/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/DiG/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/Pdy/sitemap_index.sakirifo
+Sitemap: https://sakirifo.github.io/aIS/sitemap_index.sakirifo
